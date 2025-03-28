@@ -5,8 +5,9 @@
 int main()
 {
     HString s;
-    StrAssign(&s, "helloworld");
+    StrAssign(&s, "hello");
     // printf("%c\n", );
     PrintHString(&s);
+    printf("\n");
     return 0;
 }
