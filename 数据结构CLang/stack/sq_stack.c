@@ -15,7 +15,7 @@ struct stack_type
 {
     /* data */
     ElemType *base, *top; // 栈底和栈顶
-    int stack_size; //栈的大小
+    int stack_size; //栈的容量大小
 };
 
 Stack CreateStack()

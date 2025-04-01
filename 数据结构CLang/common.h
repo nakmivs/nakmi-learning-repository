@@ -17,6 +17,6 @@ typedef int Status;
 typedef int Bool;
 
 // 一般的数据元素的类型
-typedef int ElemType;
+typedef char ElemType;
 
 #endif
